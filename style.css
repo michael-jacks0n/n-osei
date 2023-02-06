@@ -1,0 +1,11 @@
+.anime{display:flex}
+.jogos{display:flex}
+
+.jogos img{
+    height:150px;
+    width:75
+}
+#MelhoreProtagonistas img {
+    width: 600px;
+    
+}
